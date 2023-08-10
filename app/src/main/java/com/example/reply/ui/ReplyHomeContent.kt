@@ -98,7 +98,7 @@ fun ReplyListAndDetailContent(
         val activity = LocalContext.current as Activity
         ReplyDetailsScreen(
             replyUiState = replyUiState,
-            onBackPressed = {},
+            onBackPressed = {activity.finish()},
             modifier = Modifier.weight(1f)
         )
     }
