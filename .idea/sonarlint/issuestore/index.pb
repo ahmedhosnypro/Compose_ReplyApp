@@ -1,0 +1,25 @@
+
+{
+Kapp/src/main/java/com/example/reply/data/local/LocalAccountsDataProvider.kt,2/a/2a6cc375768482e75d5f31ee885ec68532475869
+c
+3app/src/main/java/com/example/reply/data/Account.kt,9/7/9745164e4d38361f932a68d207a8709a5cbbfd95
+a
+1app/src/main/java/com/example/reply/data/Email.kt,2/8/282577a2f75ed93d54c26df61a625a25aadee3ab
+y
+Iapp/src/main/java/com/example/reply/data/local/LocalEmailsDataProvider.kt,c/1/c1f872e534457c6c466fb041b6d15ae07fbac014
+g
+7app/src/main/java/com/example/reply/data/MailboxType.kt,d/1/d14b5ecc60450f531b1e014165d84582fd3218db
+e
+5app/src/main/java/com/example/reply/ui/theme/Color.kt,d/d/dd55ac35b6d43771ff9aaa20573ac90483fc6716
+e
+5app/src/main/java/com/example/reply/ui/theme/Theme.kt,d/c/dcefe7b333dfbf61008c9aaf0af17047ba01d55f
+d
+4app/src/main/java/com/example/reply/ui/theme/Type.kt,f/2/f200b6127d612a35dfadc2316623513482a3496f
+f
+6app/src/main/java/com/example/reply/ui/ReplyUiState.kt,8/a/8a26520075686427df003698ee21442dbdd08d1e
+h
+8app/src/main/java/com/example/reply/ui/ReplyViewModel.kt,c/7/c7639c4c993914f75aeba5dea372e183e03477a8
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+j
+:app/src/main/java/com/example/reply/ui/ReplyHomeContent.kt,7/7/77777d96cce25bc1d37f482cbe987cd8472283b1

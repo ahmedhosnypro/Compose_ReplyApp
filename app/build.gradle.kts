@@ -37,6 +37,7 @@ android {
     kotlinOptions {
         jvmTarget = "1.8"
         freeCompilerArgs += "-opt-in=androidx.compose.material3.ExperimentalMaterial3Api"
+        freeCompilerArgs += "-opt-in=androidx.compose.material3.windowsizeclass.ExperimentalMaterial3WindowSizeClassApi"
         allWarningsAsErrors = false
     }
     buildFeatures {
@@ -71,4 +72,5 @@ dependencies {
     debugImplementation(libs.ui.test.manifest)
 
     implementation(libs.androidx.lifecycle.viewmodel.compose)
+    implementation("androidx.compose.material3:material3-window-size-class:1.1.1")
 }
