@@ -5,8 +5,6 @@ c
 3app/src/main/java/com/example/reply/data/Account.kt,9/7/9745164e4d38361f932a68d207a8709a5cbbfd95
 a
 1app/src/main/java/com/example/reply/data/Email.kt,2/8/282577a2f75ed93d54c26df61a625a25aadee3ab
-y
-Iapp/src/main/java/com/example/reply/data/local/LocalEmailsDataProvider.kt,c/1/c1f872e534457c6c466fb041b6d15ae07fbac014
 g
 7app/src/main/java/com/example/reply/data/MailboxType.kt,d/1/d14b5ecc60450f531b1e014165d84582fd3218db
 e
@@ -17,3 +15,11 @@ d
 4app/src/main/java/com/example/reply/ui/theme/Type.kt,f/2/f200b6127d612a35dfadc2316623513482a3496f
 P
  app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+D
+app/build.gradle.kts,d/2/d2a4383452aad84a18429a5844d31330a012a9e6
+f
+6app/src/main/java/com/example/reply/ui/ReplyUiState.kt,8/a/8a26520075686427df003698ee21442dbdd08d1e
+h
+8app/src/main/java/com/example/reply/ui/ReplyViewModel.kt,c/7/c7639c4c993914f75aeba5dea372e183e03477a8
+o
+?app/src/main/java/com/example/reply/ui/util/WindowStateUtils.kt,a/1/a185a1aa936ed8a2e54a240a17d1f9a9022f4c9e
